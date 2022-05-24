@@ -1,0 +1,6 @@
+suma*=resul
+9
+int
+x1%x2
+
+
